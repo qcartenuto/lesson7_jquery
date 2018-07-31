@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+July 30, 2018
 
 ### Student Name:  
-(First and Last Name)
+Quentin Cartenuto
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+Lesson 7 jQuery: In this assignment, the class was taught the JavaScript derivative known as jQuery and how to use it throughout an HTML document, as well as using it with HTML DOM. 
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://qcartenuto.github.io/lesson7_jquery/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. jQuery: A derivative of JavaScript. A free JavaScript library that uses a more simplified scripting language, that executes multiple JavaScript actions in less code.
+2. .css(): the .css() property is a jQuery function used to affect/edit the css styles/stylesheet of an HTML document as well as specified HTML DOM elements. it also works with mutliple params to affect multiple css styles in the same jQuery function.
+3. .animate(): .animate() property is a jQuery function that when fired will activate a simple animation effect on selected HTML/HTML DOM elements. it works by coding a css param to be affected upon and a speed to which the animataion shall move at. Either "fast", "slow", or in milliseconds.
 
